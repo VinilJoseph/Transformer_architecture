@@ -1,9 +1,5 @@
-### WARNING
-This code was written in 2019, and I was not very familiar with transformer model in that time.
-So don't trust this code too much. Currently I am not managing this code well, so please open pull requests if you find bugs in the code and want to fix.
-
 # Transformer
-My own implementation Transformer model (Attention is All You Need - Google Brain, 2017)
+Transformer model (Attention is All You Need - Google Brain, 2017)
 <br><br>
 ![model](image/model.png)
 <br><br>
